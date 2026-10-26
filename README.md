@@ -1,0 +1,1 @@
+# Turkce_Haber_Metinlerinde_BERT_Tabanli_Varlik_ismi_TanimaSistemi
