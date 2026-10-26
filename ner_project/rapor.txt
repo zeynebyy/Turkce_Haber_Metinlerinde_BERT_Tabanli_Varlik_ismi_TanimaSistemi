@@ -1,0 +1,6 @@
+=== TURKCE HABER NER EGITIM RAPORU ===
+Durum: Hazırlık aşaması tamamlandı.
+Durum: Eğitim başlatıldı.
+Durum: Eğitim tamamlandı.
+Final F1: 1.0000
+Model sağlıklı görünüyor.

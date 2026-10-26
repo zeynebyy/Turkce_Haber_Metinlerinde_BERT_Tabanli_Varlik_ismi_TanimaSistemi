@@ -1,0 +1,3 @@
+Accuracy: 1.0000
+F1: 1.0000
+Weighted F1: 1.0000

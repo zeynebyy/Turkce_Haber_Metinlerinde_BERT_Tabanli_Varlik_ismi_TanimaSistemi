@@ -1,0 +1,12 @@
+transformers
+torch
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+evaluate
+seqeval
+colorama
+streamlit
+openpyxl

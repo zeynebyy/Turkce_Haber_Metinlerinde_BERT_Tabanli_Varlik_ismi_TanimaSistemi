@@ -1,0 +1,40 @@
+=== PROFESYONEL HIBRIT DATASET ANALIZI ===
+Toplam Ornek: 3333
+Train: 2666 | Dev: 333 | Test: 334
+Duplicate/Leakage Silinen: 0
+
+--- Etiket Dagilimi ---
+B-ORG: 2550
+I-DATE: 2435
+B-LOC: 2389
+I-PER: 1808
+B-PER: 1800
+B-DATE: 1778
+I-MONEY: 1252
+I-ORG: 1100
+B-MONEY: 700
+B-PERCENT: 626
+I-PERCENT: 523
+I-LOC: 253
+
+--- En Sık Gecen Kelimeler (Top 20) ---
+yeni: 737
+bir: 560
+ile: 333
+tarihinde: 326
+bugün: 275
+etti: 273
+duyurdu: 262
+yaptığı: 255
+düzenlenen: 250
+güvenlik: 242
+basın: 238
+dünya: 233
+toplantısı: 227
+belirtti: 221
+açıklamada: 220
+mühendisleri: 214
+daha: 214
+hızlı: 214
+çip: 214
+geliştirdi: 214
